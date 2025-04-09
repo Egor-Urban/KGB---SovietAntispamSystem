@@ -1,5 +1,4 @@
 # 🤖 KGB-SAS: Антиспам-бот для Telegram
-**Интеллектуальная защита чатов с использованием машинного обучения**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![aiogram](https://img.shields.io/badge/aiogram-3.19-brightgreen.svg) ![Transformers](https://img.shields.io/badge/Transformers-4.51-orange.svg) ![License](https://img.shields.io/badge/license-MIT-red.svg) ![Version](https://img.shields.io/badge/version-5.10.167r-blueviolet.svg)
 
